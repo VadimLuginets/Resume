@@ -1,0 +1,41 @@
+.aboutMe {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px;
+  width: fit-content;
+  background-color: #d8e8e8;
+  margin-left: auto;
+  margin-right: auto;
+}
+.photo {
+  width: 280px;
+}
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding: 8px;
+}
+h1,
+h2 {
+  margin: 0;
+  padding: 0;
+  color: #f56464;
+  line-height: 2em;
+}
+li {
+  color: #306d18;
+  font-size: 20px;
+  font-weight: bold;
+}
+span {
+  color: #55bcf7;
+}
+a {
+  text-decoration: none;
+}
+body {
+  letter-spacing: 1px;
+  background-color: #293641;
+}
