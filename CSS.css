@@ -30,6 +30,7 @@ body {
   background-color: #293641;
   display: flex;
   width: fit-content;
+  height: fit-content;
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
